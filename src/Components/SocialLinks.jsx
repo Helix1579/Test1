@@ -45,7 +45,7 @@ const SocialLinks = () => {
 
 
     return (
-        <div className='flex flex-col top-[35%] left-0 fixed'>
+        <div className='hidden lg:flex flex-col top-[35%] left-0 fixed'>
             <ul>
 
                 {
