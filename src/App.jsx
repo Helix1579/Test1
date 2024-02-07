@@ -3,6 +3,7 @@ import HomePage from "./Components/HomePage";
 import SocialLinks from "./Components/SocialLinks";
 import AboutPage from "./Components/AboutPage";
 import Portfolio from "./Components/Portfolio";
+import Experience from "./Components/Experience";
 
 function App() {
     return (
@@ -11,6 +12,7 @@ function App() {
             <HomePage />
             <AboutPage />
             <Portfolio />
+            <Experience />
             <SocialLinks />
         </div>
     );
